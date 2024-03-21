@@ -5,7 +5,7 @@ This guide walks you through creating a secure and readily accessible file share
 
 ## Network Diagram
 
-![Screenshot 2023-11-08 152254](https://github.com/Saurabh-Bhargav/Azure-File-Share-AD-EntraID-Integration/blob/main/Images/Screenshot%202024-03-21%20164709.png)
+![Screenshot 2023-11-08 152254](https://github.com/Saurabh-Bhargav/Azure-File-Share-AD-EntraID-Integration/blob/main/Images/Screenshot%202024-03-21%20200856.png)
 
 ## Prerequisites:
 - An Azure subscription with appropriate permissions to create storage accounts and file shares.
